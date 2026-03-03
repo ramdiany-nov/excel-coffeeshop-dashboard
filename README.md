@@ -71,3 +71,10 @@ The dataset includes 3 tables:
 - Open in Microsoft Excel (recommended: Excel 365 / 2019+).
 - Use slicers to interactively explore sales performance.
 - Adjust filters to generate dynamic insights.
+
+## 🌟 About Me
+
+Hi there! I'm **Novia Noer Ramdiany**. I’m passionate on data fields.
+
+Let's stay in touch! Feel free to connect with me on LinkedIn: https://www.linkedin.com/in/noviaramdiany/
+
